@@ -29,10 +29,5 @@ I teach, I code, I break things... and (most of the time) I fix them.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergi-Virgili&show_icons=true&theme=tokyonight)
-
----
-
 ✨ Thanks for stopping by — feel free to check out my repos and say hi!  
 
