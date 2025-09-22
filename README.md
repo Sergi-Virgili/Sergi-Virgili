@@ -21,13 +21,5 @@ I teach, I code, I break things... and (most of the time) I fix them.
 
 ---
 
-## ⚡ Fun Facts
-- 🃏 Built a **Blackjack game** in Spring just for fun.  
-- 🎮 Currently experimenting with a **Pokémon domain-driven app**.  
-- 🧑‍💻 I believe **commits should tell stories** (`feat:`, `fix:`, `refactor:`…).  
-- ☕ Runs on coffee, tests, and good memes.  
-
----
-
 ✨ Thanks for stopping by — feel free to check out my repos and say hi!  
 
